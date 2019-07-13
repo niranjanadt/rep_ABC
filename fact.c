@@ -10,6 +10,6 @@ void fact()
   for (c = 1; c <= n; c++)
     fact = fact * c;
  
-  printf("Factorial of %d = %d\n", n, fact);
+  printf("Factorial of %d is %d\n", n, fact);
 }
  
